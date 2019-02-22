@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Demo.qml</file>
+        <file>RGBA.qml</file>
+        <file>Nested-VS-Sibling.qml</file>
+    </qresource>
+</RCC>
